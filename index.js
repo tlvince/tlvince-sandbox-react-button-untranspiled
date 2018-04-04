@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Button = ({ children }) =>
-  <button>{children}</button>
+const Button = ({ children, ...propsWithoutChildren }) =>
+  <button {...propsWithoutChildren}>{children}</button>
 
 export default Button

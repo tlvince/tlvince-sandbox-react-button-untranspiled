@@ -1,6 +1,6 @@
 {
   "name": "tlvince-sandbox-react-button-untranspiled",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reduced test case for react-scripts 2.x (pre)",
   "main": "index.js",
   "scripts": {},
